@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5255cf82-ffef-4e3a-8e04-49c7647429f8"
+      }
+    },
+    "owner": "ericjavierhernandezsaura"
   }
 }
